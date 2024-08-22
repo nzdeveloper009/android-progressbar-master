@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AndroidProgressBar-Master</string>
+    <string name="progress">Progress:</string>
+    <string name="width">Width:</string>
+    <string name="opacity">Opacity</string>
+
+    <string name="outline">Outline</string>
+    <string name="start_line">Start line</string>
+    <string name="center_line">Center line</string>
+    <string name="show_percent">Show percent</string>
+    <string name="gray_scale">Grayscale</string>
+    <string name="clear_at_100_perc">Clear at 100%</string>
+    <string name="indeterminate">Indeterminate</string>
+    <string name="rounded_corners">Rounded Corners</string>
+
+    <string name="blenheim_palace">Blenheim Palace</string>
+    <string name="millennium_stadium">Millennium Stadium</string>
+    <string name="edinburgh">Carlton Hill</string>
+    <string name="holyroodpark">Holyrood Park</string>
+    <string name="operahuset">Operahuset Oslo</string>
+
+    <string name="unknown">Unknown</string>
+    <!--  navigation drawer  -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="choose_rgb_colour">Choose RGB Colour</string>
+
+    <string name="signer_pro">by Syed Nokhaiz Al Hassan</string>
+    <string name="img_desc">main image of the progressbar</string>
+    <string name="defaultrgbvalue">(000,000,000)</string>
+    <string name="green_">Green:</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="blue_">Blue:</string>
+    <string name="rgb_colour_">RGB COLOUR:</string>
+    <string name="red_">Red:</string>
+    <string name="github_repo_lib_android_progress_bar_link_version"><![CDATA[<font color=#4183C4>nzdeveloper009</font>/<b><font color=#4183C4>android-progressbar-master</font></b><br>(V.1.0.0)]]></string>
+    <string name="github_profile_link">https://github.com/nzdeveloper009</string>
+    <string name="github_link_repo">https://github.com/nzdeveloper009/android-progressbar-master</string>
+</resources>
